@@ -55,7 +55,8 @@
 **AI / Machine Learning:**
 <p>
 
-<a href="https://openai.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiehive.com%2Fopenai-logo-png%2F&psig=AOvVaw3aNX8aHEF67DqW2wU8qJn0&ust=1754799780476000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCygufw_I4DFQAAAAAdAAAAABAE" width="40"/></a>
+<a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/ffffff" alt="OpenAI" width="40" height="40"/>
+</a>
   
 <a href="https://www.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/></a>
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
